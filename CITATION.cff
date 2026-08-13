@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: >-
+  If you use V-LiPS-RF, please cite this software release and the associated
+  paper when its final bibliographic record is available.
+title: V-LiPS-RF
+type: software
+version: 0.1.0
+date-released: 2026-08-13
+authors:
+  - name: V-LiPS-RF Contributors
+repository-code: https://github.com/Kilimetarlop/V-LiPS-RF
+url: https://github.com/Kilimetarlop/V-LiPS-RF
+license: Apache-2.0
+abstract: >-
+  An offline SDK and command-line tool for validating RF split manifests,
+  reporting fail-closed evidence states, and selecting among safe candidates
+  without inspecting evaluation outcomes. It does not include RF data or train
+  recognition models.
+keywords:
+  - radio-frequency identification
+  - open-set evaluation
+  - data lineage
+  - split validation
+  - information exposure
+

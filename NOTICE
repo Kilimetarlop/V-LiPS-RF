@@ -1,0 +1,14 @@
+V-LiPS-RF
+Copyright 2026 V-LiPS-RF Contributors
+
+This product includes software developed by the V-LiPS-RF contributors.
+
+The V-LiPS-RF name identifies the reference manifest-validation and
+outcome-blind selection implementation associated with the V-LiPS-RF research
+work. This NOTICE file is informational and does not modify the Apache License,
+Version 2.0.
+
+No RF dataset, model checkpoint, third-party model implementation, or raw I/Q
+recording is distributed with this product. See THIRD_PARTY_NOTICES.md for the
+boundary between repository-authored material and separately licensed inputs.
+

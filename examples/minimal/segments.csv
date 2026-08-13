@@ -1,0 +1,4 @@
+segment_id,physical_emitter_id,acquisition_id,source_file_id,sample_start,sample_end,model_version,role,usage,evidence_level
+seg-enroll-001,emitter-alpha,acq-alpha-01,source-alpha-01,0,4096,model-001,K,enrollment,L2
+seg-calib-001,emitter-beta,acq-beta-01,source-beta-01,0,4096,model-001,S,calibration,L2
+seg-query-001,emitter-gamma,acq-gamma-01,source-gamma-01,0,4096,model-001,U,final_query,L2

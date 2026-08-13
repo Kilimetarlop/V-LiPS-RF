@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "artifact_type": "vlips-rf",
+  "declared_level": "L2",
+  "files": {
+    "segments": "segments.csv",
+    "pipeline_dependencies": "pipeline_dependencies.json",
+    "query_transitions": "query_transitions.csv"
+  }
+}
