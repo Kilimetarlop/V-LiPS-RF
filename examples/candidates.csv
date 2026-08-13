@@ -1,0 +1,5 @@
+candidate_id,eligible,identity_count,acquisition_count,condition_count,role_imbalance,legal_signal_count,transfer_bytes
+candidate-alpha,true,12,24,4,0,96,8192
+candidate-beta,true,12,24,3,0,96,4096
+candidate-rejected,false,20,40,5,0,140,16384
+
